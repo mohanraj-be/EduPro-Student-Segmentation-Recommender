@@ -75,8 +75,8 @@ Traditional platforms rely on generic, popularity-driven recommendations that fa
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/mohanraj-be/EduPro-Student-Segmentation-Recommender.git
+cd EduPro-Student-Segmentation-Recommender
 ```
 
 ### 2. Create and Activate a Virtual Environment (Optional but Recommended)
