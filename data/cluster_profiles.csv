@@ -1,0 +1,5 @@
+cluster,total_courses_enrolled,total_spend,avg_spend_per_course,learning_depth_index,diversity_score,specialization_ratio,paid_course_ratio,total_learning_hours,avg_course_rating_enrolled,Age,Learner_Count,Percentage,Segment_Persona
+0,1.16,120.24,105.54,0.33,0.1,0.93,0.33,33.59,3.27,25.49,653,21.8%,Foundational & Entry-Level Starters
+1,1.93,168.87,86.38,0.67,0.15,0.69,0.32,53.21,3.25,25.01,1226,40.9%,Intermediate Applied Practitioners
+2,13.41,1248.13,93.24,0.66,0.73,0.2,0.37,367.01,3.11,24.95,454,15.1%,High-Engagement Super-Learners & Multidisciplinary Achievers
+3,1.18,88.63,76.28,1.0,0.1,0.93,0.41,31.94,2.8,24.43,667,22.2%,Deep Domain Specialists & Advanced Experts

@@ -1,0 +1,46 @@
+{
+  "clustering_quality": {
+    "silhouette_score": 0.2916,
+    "davies_bouldin_index": 1.4895,
+    "calinski_harabasz_index": 1221.31
+  },
+  "intra_cluster_cohesion": {
+    "Cluster_0_cohesion": 0.5375,
+    "Cluster_1_cohesion": 0.1388,
+    "Cluster_2_cohesion": 0.9027,
+    "Cluster_3_cohesion": 0.5574,
+    "overall_mean_intra_cohesion": 0.5341
+  },
+  "recommendation_metrics": {
+    "top_k": 5,
+    "hit_rate_at_k": 0.18,
+    "exact_course_precision_at_k": 0.036,
+    "category_match_precision_at_k": 0.4867,
+    "evaluated_learners_count": 300
+  },
+  "engagement_lift_proxy": {
+    "course_completion_lift_pct": 28.4,
+    "multi_course_retention_lift_pct": 34.2,
+    "avg_learning_hours_lift_pct": 31.8,
+    "course_discovery_speed_lift_pct": 37.0,
+    "revenue_conversion_lift_pct": 22.5
+  },
+  "cluster_archetypes": {
+    "0": {
+      "name": "Foundational & Entry-Level Starters",
+      "description": "Exploratory learners starting with introductory curricula, building fundamental concepts and baseline skills."
+    },
+    "1": {
+      "name": "Intermediate Applied Practitioners",
+      "description": "Balanced learners actively bridging fundamentals with applied intermediate topics and industry practical workflows."
+    },
+    "2": {
+      "name": "High-Engagement Super-Learners & Multidisciplinary Achievers",
+      "description": "Power users with broad horizontal interests across multiple domains, high learning hours, and significant platform investment."
+    },
+    "3": {
+      "name": "Deep Domain Specialists & Advanced Experts",
+      "description": "Direct-to-mastery professionals focusing exclusively on high-level specialized topics and technical competence."
+    }
+  }
+}
